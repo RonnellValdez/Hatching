@@ -5,7 +5,7 @@ function Article () {
     return (
             <article id="chunk">
                 <img src={blogArticleImage} alt=""/>
-                <p>Magical mountain was my season 3 build on the back to bedrock minecraft server. This mountain was inspired by my recent trip to Universal Studios Orlando. I tried to recreate the atmosphere of the Harry Potter portion of the park. I was also inspired by Grian, a member of the Hermitcraft Server on youtube, who built a beautiful render of Gringotts Bank from Harry Potter.
+                <p>Inspired from BDouble100 on the hermitcraft server, I wanted to build my base in the style of 1920's American architecture. In particular, Main Street USA located in Disneland. This was my first build on a public server so I was also able to use resources that i would have otherwise found difficult to gather. There were also other builds (christmas district, industrial district) that I had built on the server that are not pictured here.
                 </p>
             </article>
     )
